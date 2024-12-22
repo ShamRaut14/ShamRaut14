@@ -2,7 +2,7 @@
 👀 I’m interested in Java Backend Development, RESTful APIs, and Cloud Technologies.
 🌱 I’m currently learning Advanced Spring Boot, Microservices, and AWS Deployment.
 💞️ I’m looking to collaborate on Java-based backend projects, API development, and scalable web applications.
-📫 How to reach me: [Your Email] | [Your LinkedIn Profile]
+📫 How to reach me: Shamraut00010@gmail.com | https://www.linkedin.com/in/sham-raut/
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love solving complex coding problems and learning about emerging technologies over a cup of coffee!
 
